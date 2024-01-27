@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 e67b207d065da1aa3b61b6ad29d34cff2e6caddb Chinhong Lao <chinhonglao@Chinhongs-Mac-mini.local> 1702635649 +0700	commit (initial): Initial commit
+e67b207d065da1aa3b61b6ad29d34cff2e6caddb 9aefd01040815ec4376f823ce8782792da737115 chinhonglao <laochinhong@gmail.com> 1702638624 +0700	commit: add item row and page
+9aefd01040815ec4376f823ce8782792da737115 8791cf35069a9bd75c113963695a368a73fde9f2 chinhonglao <laochinhong@gmail.com> 1702638675 +0700	commit: modify container decoration
+8791cf35069a9bd75c113963695a368a73fde9f2 980e46542ca3f7ad3f1872f9f3306adb8d9e047b chinhonglao <laochinhong@gmail.com> 1703036590 +0700	commit: add more UI: expense type, house type, measure unit, item picker
+980e46542ca3f7ad3f1872f9f3306adb8d9e047b e7766d9edbc8d4b0565b476b1d1227fefdeb6ef3 chinhonglao <laochinhong@gmail.com> 1703240970 +0700	commit: add master plan form page
+e7766d9edbc8d4b0565b476b1d1227fefdeb6ef3 9c60f0a2cbd8ceb474e2c3dc6f96c88eadb9397e chinhonglao <laochinhong@gmail.com> 1703753223 +0700	commit: add dialog
+9c60f0a2cbd8ceb474e2c3dc6f96c88eadb9397e e94ca8123f85b2c6d06598c65380cc59277598d8 chinhonglao <laochinhong@gmail.com> 1706323296 +0700	commit: test report page
